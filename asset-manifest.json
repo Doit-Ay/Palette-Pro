@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Palette-Pro/static/css/main.857ea745.css",
+    "main.js": "/Palette-Pro/static/js/main.3a9e1fe0.js",
+    "static/js/453.ca5cfa1f.chunk.js": "/Palette-Pro/static/js/453.ca5cfa1f.chunk.js",
+    "static/media/logo.png": "/Palette-Pro/static/media/logo.5eacc63c5a4b5dd41ee9.png",
+    "index.html": "/Palette-Pro/index.html",
+    "main.857ea745.css.map": "/Palette-Pro/static/css/main.857ea745.css.map",
+    "main.3a9e1fe0.js.map": "/Palette-Pro/static/js/main.3a9e1fe0.js.map",
+    "453.ca5cfa1f.chunk.js.map": "/Palette-Pro/static/js/453.ca5cfa1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.857ea745.css",
+    "static/js/main.3a9e1fe0.js"
+  ]
+}
